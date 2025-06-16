@@ -1,3 +1,5 @@
 # References
 
-* octocat 1 😈
+- Mona L. Octocat — Staff Engineer, SpaceX
+* octocat 1 🪄
+
